@@ -1,2 +1,2 @@
 # synthetic-data-factory
-project foe win
+project for win
